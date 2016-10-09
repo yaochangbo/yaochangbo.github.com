@@ -23,3 +23,4 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 email: y-wave@163.com
 github: yaochangbo
 
+markdown: kramdown
