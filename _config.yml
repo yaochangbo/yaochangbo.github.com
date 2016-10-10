@@ -15,7 +15,7 @@ baseurl: '/yaochangbo.github.com' #change it according to your repository name
 
 
 #Profile information
-name: 1111 #Lordaeron 111
+name: Lordaeron
 tagline: Java Framework Designer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -24,3 +24,4 @@ email: y-wave@163.com
 github: yaochangbo
 
 markdown: kramdown
+encoding: utf-8
