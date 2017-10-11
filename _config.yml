@@ -1,5 +1,5 @@
 
-title: Lordaeron's summer
+title: yao's blog
 url: 'https://yaochangbo.github.io/'
 baseurl: '/yaochangbo.github.com' #change it according to your repository name
 
@@ -15,7 +15,7 @@ baseurl: '/yaochangbo.github.com' #change it according to your repository name
 
 
 #Profile information
-name: Lordaeron
+name: yao
 tagline: Java Framework Designer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
